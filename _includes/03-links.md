@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[hkrause-invn GitHub Profile](https://github.com/hkrause-invn)
